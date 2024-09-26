@@ -8,14 +8,15 @@ A brief description of your project and what it does.
 - Feature 2: responsives
 - Feature 3: useing flex box
 
+##File Structure
+   template.css/
+├── index.html
+├── styles.css
+└── README.md
+
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/project-name.git
 
-   ##File Structure
-   template.css/
-├── index.html
-├── styles.css
-└── README.md
